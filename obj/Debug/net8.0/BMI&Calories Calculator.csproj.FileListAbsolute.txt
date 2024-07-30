@@ -1,0 +1,14 @@
+/Users/apple/Documents/Programming/BMI&Calories Calculator/bin/Debug/net8.0/BMI&Calories Calculator
+/Users/apple/Documents/Programming/BMI&Calories Calculator/bin/Debug/net8.0/BMI&Calories Calculator.deps.json
+/Users/apple/Documents/Programming/BMI&Calories Calculator/bin/Debug/net8.0/BMI&Calories Calculator.runtimeconfig.json
+/Users/apple/Documents/Programming/BMI&Calories Calculator/bin/Debug/net8.0/BMI&Calories Calculator.dll
+/Users/apple/Documents/Programming/BMI&Calories Calculator/bin/Debug/net8.0/BMI&Calories Calculator.pdb
+/Users/apple/Documents/Programming/BMI&Calories Calculator/obj/Debug/net8.0/BMI&Calories Calculator.GeneratedMSBuildEditorConfig.editorconfig
+/Users/apple/Documents/Programming/BMI&Calories Calculator/obj/Debug/net8.0/BMI&Calories Calculator.AssemblyInfoInputs.cache
+/Users/apple/Documents/Programming/BMI&Calories Calculator/obj/Debug/net8.0/BMI&Calories Calculator.AssemblyInfo.cs
+/Users/apple/Documents/Programming/BMI&Calories Calculator/obj/Debug/net8.0/BMI&Calories Calculator.csproj.CoreCompileInputs.cache
+/Users/apple/Documents/Programming/BMI&Calories Calculator/obj/Debug/net8.0/BMI&Calories Calculator.dll
+/Users/apple/Documents/Programming/BMI&Calories Calculator/obj/Debug/net8.0/refint/BMI&Calories Calculator.dll
+/Users/apple/Documents/Programming/BMI&Calories Calculator/obj/Debug/net8.0/BMI&Calories Calculator.pdb
+/Users/apple/Documents/Programming/BMI&Calories Calculator/obj/Debug/net8.0/BMI&Calories Calculator.genruntimeconfig.cache
+/Users/apple/Documents/Programming/BMI&Calories Calculator/obj/Debug/net8.0/ref/BMI&Calories Calculator.dll
